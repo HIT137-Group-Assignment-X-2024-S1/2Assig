@@ -1,5 +1,5 @@
 global_variable = 100
-my_dict = {'key1': 'value1', 'key2': 'value2', 'key3': 'value3'}    #key names inconsistant
+my_dict = {'key1': 'value1', 'key2': 'value2', 'key3': 'value3'}    #key names inconsistant, also would expect values to be integers not strings.
 def process_numbers(numbers):                                       #requires an input
     local_variable = 5                                              #Remove global global_variable - not required
     # numbers = [1, 2, 3, 4, 5]                                     #Removed line, variable parsed via my_set
