@@ -9,7 +9,7 @@ S364062 Timothy Henry de Lucia - Task 1
 -top_30_tokens.csv
 -top_30_words.csv
 
-S371673 - Task 2
+S371673 Sergei Mar Colo Santos - Task 2
 -Chapter1.jpg
 -Chapter1_edited.jpg
 -PIP.cpython-312.pyc
